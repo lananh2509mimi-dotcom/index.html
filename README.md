@@ -156,7 +156,7 @@ button.ghost{background:#eef6ff;color:var(--primary);border:1px solid rgba(11,11
             border-radius:6px;
             margin:15px 0;
             font-weight:600;">
-  Cha mẹ học sinh vui lòng kiểm tra kỹ lại toàn bộ thông tin trước khi chuyển khoản.
+ Sau khi hoàn tất chuyển khoản, trong vòng 1–3 ngày làm việc, Nhà trường sẽ kiểm tra thông tin và gửi thông báo xác nhận qua Zalo tới Cha mẹ học sinh.
 </div>
 
 <div class="qr-area">
